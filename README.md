@@ -4,7 +4,7 @@ Es una aplicación diseñada para la gestión eficiente de una clínica veterina
 Permite llevar el control de las mascotas, citas de los clientes de manera organizada y fácil de usar.
 
 
-![Demostración de la veterinaria](assets/veterinaria.gif)
+![Demostración de la veterinaria](src/assets/veterinaria.gif)
 
 
 ## Tecnologías Utilizadas
